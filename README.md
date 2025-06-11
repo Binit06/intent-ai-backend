@@ -68,10 +68,10 @@ uvicorn app.main:app --host 0.0.0.0 --port 5000 --reload
 
 A minimal frontend is available here:
 
-👉 **[Frontend GitHub Repository](https://github.com/Binit06/intent-detection-ai-fronted)**
+👉 **[Frontend GitHub Repository](https://github.com/Binit06/intent-ai-frontend)**
 
 ```bash
-git clone https://github.com/Binit06/intent-detection-ai-fronted.git
+git clone https://github.com/Binit06/intent-ai-frontend.git
 cd frontend-repo
 npm install
 npm run dev
