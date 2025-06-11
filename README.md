@@ -50,9 +50,9 @@ python create_db.py
 
 - To **explore sample logs and tickets**, use the included file:
 
-### 👉 [`intent_logs.db`](./intent_logs.db) (📎 drag & drop here → [https://sqliteviewer.app](https://sqliteviewer.app))
+### 👉 [`intent_logs.db`](./intent_logs.db) (📎 dowload and load here → [https://sqliteviewer.app](https://sqliteviewer.app))
 
-You can **drag and drop** the file into [https://sqliteviewer.app](https://sqliteviewer.app) to browse the logs and tickets.
+You can **download and load** the file into [https://sqliteviewer.app](https://sqliteviewer.app) to browse the logs and tickets.
 
 ---
 
