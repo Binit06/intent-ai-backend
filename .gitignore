@@ -4,4 +4,3 @@ bert-intent-model/
 finzie/
 .env
 __pycache__/
-intent_logs.db
