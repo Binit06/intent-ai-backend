@@ -3,3 +3,5 @@ bert_intent_model/
 bert-intent-model/
 finzie/
 .env
+__pycache__/
+intent_logs.db
