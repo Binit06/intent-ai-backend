@@ -1,0 +1,5 @@
+.venv
+bert_intent_model/
+bert-intent-model/
+finzie/
+.env
