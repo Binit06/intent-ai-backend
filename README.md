@@ -26,6 +26,7 @@ It uses **BERT** for AI classification with fallback support for a Gemini-2.0.
 ├── .env                    # Environment variables
 ├── processed_data_main.csv # Data used for BERT Training
 └── README.md
+├── index.py                # Prototype flask app
 ```
 
 ---
@@ -72,7 +73,7 @@ A minimal frontend is available here:
 
 ```bash
 git clone https://github.com/Binit06/intent-ai-frontend.git
-cd frontend-repo
+cd intent-ai-frontend
 npm install
 npm run dev
 ```
